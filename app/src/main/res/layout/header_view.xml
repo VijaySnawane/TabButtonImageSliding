@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonavijay.tabimageslide.SlideView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/header_view_sub_title"
+        android:layout_width="55dp"
+        android:layout_height="45dp" />
+
+
+</com.sonavijay.tabimageslide.SlideView>
